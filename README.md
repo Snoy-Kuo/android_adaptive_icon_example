@@ -1,6 +1,10 @@
 # adaptive_icon_example
 
-An Android example App project that shows how to check adaptive icons fit the official guidelines.
+An Android example App project that shows how to check adaptive icons fit the official guidelines.<br/>
+    <img src="/images/screenshots/Adaptive_icon-squire.png" width="24%"/>
+    <img src="/images/screenshots/Adaptive_icon-circle.png" width="24%"/>
+    <img src="/images/screenshots/Adaptive_icon-rounded_corners.png" width="24%"/>
+    <img src="/images/screenshots/Adaptive_icon-squircle.png" width="24%"/>
 
 ## How to create adaptive launcher icons?
 
@@ -10,8 +14,10 @@ An Android example App project that shows how to check adaptive icons fit the of
  1. Craete a background layer and then draw background.
  1. Create a foreground layer and then draw foreground. 
  1. Export foreground and background SVG files. Note, if 
- 1. In Android Studio, create new Vector Assets. Convert foreground and background SVG files to Vector Drawable format files. 
- 1. In Android Studio, create new Image Asset. Choose Icon Type="Launcher Icons(Adaptive and legacy)". Choose source assets for foreground and background layers.
+ 1. In Android Studio, create new Vector Assets. Convert foreground and background SVG files to Vector Drawable format files. <br/>
+    <img src="/images/screenshots/Vector_Asset_Studio.png" width="70%"/>
+ 1. In Android Studio, create new Image Asset. Choose Icon Type="Launcher Icons(Adaptive and legacy)". Choose source assets for foreground and background layers.<br/>
+    <img src="/images/screenshots/Image_Asset_Studio.png" width="70%"/>
 
 ## Which icon shows in which target? 
  - Android 8 (API 26, O) or above :   Adaptive launcher icons in mipmap-anydpi-v26 folder.
