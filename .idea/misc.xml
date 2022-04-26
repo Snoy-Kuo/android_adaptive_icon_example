@@ -5,6 +5,10 @@
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1445" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1445" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground_add_baseline.xml" value="0.128" />
+        <entry key="app/src/main/res/drawable/ic_vector_icon_baseline_01.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_vector_icon_masklines_normal.xml" value="0.1045" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.128" />
       </map>
     </option>
   </component>
