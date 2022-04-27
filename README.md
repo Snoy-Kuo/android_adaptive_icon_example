@@ -8,7 +8,7 @@ An Android example App project that shows how to check adaptive icons fit the of
 
 ## How to create adaptive launcher icons?
 
- 1. Choose a vector image design tool which can export SVG formot file (eg. [Illustrator](https://helpx.adobe.com/tw/illustrator/how-to/export-svg.html), [Adobe XD](https://helpx.adobe.com/tw/xd/help/export-design-assets.html), [Affinity](https://designbundles.net/design-school/how-to-make-an-svg-in-affinity-designer), [Sketch](https://www.sketch.com/docs/importing-and-exporting/#how-to-export-css-and-svg-code)).
+ 1. Choose a vector image design tool which can export SVG formot file (eg. [Illustrator](https://helpx.adobe.com/tw/illustrator/how-to/export-svg.html), [Adobe XD](https://helpx.adobe.com/tw/xd/help/export-design-assets.html), [Affinity](https://designbundles.net/design-school/how-to-make-an-svg-in-affinity-designer), [Sketch](https://www.sketch.com/docs/importing-and-exporting/#how-to-export-css-and-svg-code), [Figma](https://help.figma.com/hc/en-us/articles/360040028114-Guide-to-exports-in-Figma#h_41b394ed-f969-4840-9e6e-c7c2790d5bc5)).
  1. Create a canvas with width and height 108px. If it's too small, you can create a 10x canvas.
  1. Create a top layer. Import adaptive icon mask lines to ensure safe area.
  1. Craete a background layer and then draw background.
