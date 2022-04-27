@@ -13,7 +13,7 @@ An Android example App project that shows how to check adaptive icons fit the of
  1. Create a top layer. Import adaptive icon mask lines to ensure safe area.
  1. Craete a background layer and then draw background.
  1. Create a foreground layer and then draw foreground. 
- 1. Export foreground and background SVG files. Note, if 
+ 1. Export foreground and background SVG files. Note, some SVG tags are unsoffort for converting to Vector Drawable. These objects should frist convert to Paths in SVG. 
  1. In Android Studio, create new Vector Assets. Convert foreground and background SVG files to Vector Drawable format files. <br/>
     <img src="/images/screenshots/Vector_Asset_Studio.png" width="70%"/>
  1. In Android Studio, create new Image Asset. Choose Icon Type="Launcher Icons(Adaptive and legacy)". Choose source assets for foreground and background layers.<br/>
@@ -45,5 +45,5 @@ An Android example App project that shows how to check adaptive icons fit the of
 
  ## Todos
 
- - Find a easier way to launch Vector Assets Studio and Image Asset Studio for designers.<br/>
+ - Find an easier way to launch Vector Assets Studio and Image Asset Studio for designers.<br/>
    Since there is no standalone Vector Assets Studio and Image Asset Studio program.
